@@ -1,0 +1,255 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    background-color: rgb(255, 255, 255);
+}
+
+.titulopag{
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+}
+
+strong {
+    color: blue ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-weight: 1000;
+    
+    
+}
+
+.produto {
+    width: 25%; 
+    padding: 3%;
+}
+
+.linha1 {
+    display: flex;
+    justify-content: center;
+    gap: 1%
+}
+
+
+.imagem_iphone14 {
+    padding-left: 28%;
+}
+
+.parc_iphone14 {
+    color: rgb(255, 0, 111);
+    font-size: 80%;
+}
+
+.nome_iphone14 {
+    font-weight: 1000;
+}
+
+
+
+.imagem_iphone11 {
+    padding-left: 28%;
+}
+
+.parc_iphone11 {
+    color: rgb(255, 0, 111);
+    font-size: 80%;
+}
+
+.nome_iphone11 {
+    font-weight: 1000;
+}
+
+
+
+.linha2  {
+    display: flex;
+    justify-content: center;
+    gap: 1%
+}
+
+.imagem_iphone13 {
+    padding-left: 28%;
+}
+
+.parc_iphone13 {
+    color: rgb(255, 0, 111);
+    font-size: 80%;
+}
+
+.nome_iphone13 {
+    font-weight: 1000;
+}
+
+
+.imagem_iphone12 {
+    padding-left: 28%;
+}
+
+.parc_iphone12 {
+    color: rgb(255, 0, 111);
+    font-size: 80%;
+}
+
+.nome_iphone12 {
+    font-weight: 1000;
+}
+
+
+
+
+.linha3 {
+    display: flex;
+    justify-content: center;
+    gap: 1%
+}
+
+.imagem_xiaomipoco {
+    padding-left: 28%;
+}
+
+.parc_xiaomipoco {
+    color: rgb(255, 0, 111);
+    font-size: 80%;
+}
+
+.nome_xiaomipoco {
+    font-weight: 1000;
+}
+
+.descriçao_xiaomipoco {
+    font-size: 90%;
+}
+
+
+.imagem_xiaomi12 {
+    padding-left: 28%;
+}
+
+.parc_xiaomi12 {
+    color: rgb(255, 0, 111);
+    font-size: 80%;
+}
+
+.nome_xiaomi12 {
+    font-weight: 1000;
+}
+
+.descriçao_xiaomi12 {
+    font-size: 90%;
+}
+
+
+
+
+.linha4 {
+    display: flex;
+    justify-content: center;
+    gap: 1%
+}
+
+.imagem_xiaomi11 {
+    padding-left: 28%;
+}
+
+.parc_xiaomi11 {
+    color: rgb(255, 0, 111);
+    font-size: 80%;
+}
+
+.nome_xiaomi11 {
+    font-weight: 1000;
+}
+
+.descriçao_xiaomi11 {
+    font-size: 100%;
+}
+
+
+.imagem_xioami10a {
+    padding-left: 28%;
+}
+
+.parc_xioami10a {
+    color: rgb(255, 0, 111);
+    font-size: 80%;
+}
+
+.nome_xioami10a {
+    font-weight: 1000;
+}
+
+.descriçao_xioami10a {
+    font-size: 100%;
+}
+
+.linha5 {
+    display: flex;
+    justify-content: center;
+    gap: 1%
+}
+
+.nome_samsung23 {
+    font-weight: 1000;
+}
+
+.imagem_samsung23 {
+    padding-left: 28%;
+    padding-top: 3%;
+}
+
+.parc_samsung23 {
+    color: rgb(255, 0, 111);
+    font-size: 80%;
+}
+
+
+.nome_samsunga54 {
+    font-weight: 1000;
+}
+
+.imagem_samsunga54 {
+    padding-left: 28%;
+}
+
+.parc_samsunga54 {
+    color: rgb(255, 0, 111);
+    font-size: 80%;
+}
+
+
+
+.linha6 {
+    display: flex;
+    justify-content: center;
+    gap: 1%
+}
+
+.nome_samsunga14 {
+    font-weight: 1000;
+}
+
+.imagem_samsunga14 {
+    padding-left: 28%;
+}
+
+.parc_samsunga14 {
+    color: rgb(255, 0, 111);
+    font-size: 80%;
+}
+
+.descriçao_samsunga14 {
+    font-size: 90%;
+}
+
+
+.nome_samsungm53 {
+    font-weight: 1000;
+}
+
+.imagem_samsungm53 {
+    padding-left: 28%;
+}
+
+.parc_samsungm53 {
+    color: rgb(255, 0, 111);
+    font-size: 80%;
+}
